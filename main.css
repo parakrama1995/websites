@@ -1,6 +1,7 @@
 header{
-  background: #442;
-margin: 0;
+  background: #25981F;
+  margin: 0;
+  font-family: times;
 }
 
 head h1{
@@ -10,28 +11,30 @@ head h1{
 
 body{
   background-color: #999;
-  font-family: times;
   margin: 0;
 
 }
 h1{
+  background: #442;
+  margin: 0;
   color: #000;
-  padding: 5px 5px 5px 650px;
+  padding: 5px 5px 5px 705px;
 
   }
 a{
-  color: green;
+  color: black;
   margin: 0;
+  padding left: 400px;
+  padding right:15px;
 }
 nav ul li{
   background: 666;
-  color: 009;
+  color: black;
   display: inline-block;
   list-style-type: none;
-  padding left: 400px;
-  padding right:15px;
+  padding: 0px 0% 15px 27%;
 
 }
 img{
-  padding-left: 500px;
+  padding-left: 32%;
 }
