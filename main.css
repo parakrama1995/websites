@@ -1,5 +1,6 @@
 header{
   background: #25981F;
+  background: radial-gradient(circle, #0B690A, #9DFB2B);
   margin: 0;
   font-family: times;
 }
@@ -12,40 +13,58 @@ head h1{
 body{
   background-color: #999;
   margin: 0;
+  background: linear-gradient( black, #9DFB2B);
 
 }
 h1{
   background: #442;
+  background: radial-gradient(circle, #0B690A, #9DFB2B);
   margin: 0;
   color: #000;
   text-align: center;
 
   }
+
 a{
-  color: black;
+
+  color: BLACK;
   margin: 0;
 
+
 }
+
+nav ul{
+  text-align: center;
+  padding-top: 0;
+  padding-bottom: 15px;
+  padding-right:0;
+
+}
+
+
 nav ul li{
   background: 666;
-  color: black;
-  text-align: center;
   display: inline-block;
   list-style-type: none;
-
-
+  padding-left: 30px;
 
 
 }
 
 ul li{
-
+  text-align: center;
 
 
 }
 
 img{
+
     display: block;
     margin: auto;
     width: 40%;
+}
+
+footer{
+    text-align: right;
+    color: blue;
 }
