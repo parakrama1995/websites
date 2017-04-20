@@ -6,38 +6,31 @@ body{
   height: 100%;
 }
 header{
-  background: #25981F;
-  background: radial-gradient(circle, #0B690A, #9DFB2B);
   margin: 0;
   font-family: times;
 }
 
 header h1{
-  background: #442;
-  background: radial-gradient(circle, #0B690A, #9DFB2B);
   margin: 0;
-  color: #000;
+  color: #9DFB2B;
   text-align: center;
 
   }
+  nav ul{
+    text-align: center;
+    margin:0;
+    padding: 0;
 
-nav ul{
-  text-align: center;
-  margin:0;
-  padding: 0;
-
-}
-
-
-nav ul li{
-  display: inline;
-  list-style-type: none;
-  padding:0;
-  margin: 0;
+  }
+  nav ul li{
+    text-align: center;
+    display: inline;
+    list-style-type: none;
+    padding:0;
+    margin: 0;
 
 
-}
-
+  }
 
 img{
     height:auto;
@@ -54,6 +47,7 @@ a {
   display: inline-block;
   margin-bottom: 8px;
   margin-right: 8px;
+  
 }
 
 a:nth-of-type(2n) {
