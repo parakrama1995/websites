@@ -5,12 +5,12 @@ body{
   height:800PX;
 }
 @font-face {
-  font-family: TrueType;
-  src: url(flowers_kingdom.ttf);
+  font-family: League Script;
+
 }
 header{
   margin: 0;
-  font-family: TrueType;
+  font-family: League Script;
 }
 
 header h1{
